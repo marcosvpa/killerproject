@@ -107,31 +107,11 @@ h2:after {
 ----------------------------------------------
 */
 
-ion-icon[name="infinite-outline"] { 
+ion-icon{ 
 
     color:#e67e22;
-    font-size: 150px;
-    
-    
-    }
+    font-size: 60px;
 
-ion-icon[name="stopwatch-outline"] { 
-    color:#e67e22;
-    font-size: 150px;
-    
-        
-    }
-
-ion-icon[name="nutrition-outline"] { 
-    color:#e67e22;
-    font-size: 150px;
-    
-    }
-
-ion-icon[name="receipt-outline"] { 
-    color:#e67e22;
-    font-size: 150px;
-          
     }
 
 /*
